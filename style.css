@@ -1,0 +1,62 @@
+html{
+    /* background-color: #111827; */
+    background-image: url("https://images.pexels.com/photos/1533720/pexels-photo-1533720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+}
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#body{
+    position: absolute;
+}
+
+#intro{
+    margin: 3vw;
+}
+
+#icon{
+    scale: 0.2;
+    margin-left: 50vw;
+    margin-top: -30vh;
+    position: absolute;
+}
+
+#info{
+    scale: 0.8;
+    background-color: #2eb5de9d;
+    width: 35vw;
+    height: 60vh;
+    margin-left: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+#info h4{
+    color: black;
+    margin: 17px;
+    text-align: justify;
+    font-size: large;
+    font-size: 20px;
+}
+
+#info:hover{
+    background-color: rgba(0, 255, 255, 0.557);
+    scale: 0.9;
+}
+
+#flex{
+    display: flex;
+}
+
+#note{
+    width: 100%;
+    margin-left: 40vw;
+    scale: 1.5;
+    background-color: rgba(0, 0, 0, 0.466);
+    color: aquamarine;
+}
