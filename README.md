@@ -6,7 +6,7 @@ Our theme for the Hackathon was "AI and Cloud Computing", and the selected probl
 
 ## Deployment
 
-To deployement of this project has been made really easy. Just click [Here](https://prakshark.github.io/NeerMitra-for-CyberCup-3.0/)
+To deployement of this project has been made really easy. Just click [Here](https://alwaysomesh.github.io/CyberCup-3.0-Chatbot/)
 
 
 ## Features
