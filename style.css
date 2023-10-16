@@ -17,9 +17,9 @@ html{
 }
 
 #icon{
-    scale: 0.2;
-    margin-left: 50vw;
-    margin-top: -30vh;
+    scale: 0.3;
+    margin-left: 40vw;
+    margin-top: -10vh;
     position: absolute;
 }
 
@@ -51,6 +51,13 @@ html{
 
 #flex{
     display: flex;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
 }
 
 #note{
