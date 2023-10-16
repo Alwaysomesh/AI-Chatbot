@@ -6,7 +6,7 @@ Our theme for the Hackathon was "AI and Cloud Computing", and the selected probl
 
 ## Deployment
 
-To deployement of this project has been made really easy. Just [click here](https://alwaysomesh.github.io/CyberCup-3.0-Chatbot/)
+To deployement of this project has been made really easy. Just [click here](https://alwaysomesh.github.io/AI-Chatbot/)
 
 
 ## Features
